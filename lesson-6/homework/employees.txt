@@ -1,0 +1,2 @@
+0001,Jhon Wapper,A,300
+0002,CarlSSS,B,400
